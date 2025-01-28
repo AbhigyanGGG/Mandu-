@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday Nikita</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #fdf6e4;
+            margin: 0;
+            padding: 0;
+            color: #444;
+            text-align: center;
+        }
+        header {
+            background-color: #ffe5d1;
+            padding: 20px;
+            border-bottom: 2px solid #ffb6c1;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin: 10px 0;
+            color: #ff7f50;
+        }
+        h2 {
+            font-size: 1.5rem;
+            margin: 10px 0;
+            color: #666;
+        }
+        .banners {
+            display: flex;
+            justify-content: center;
+            margin: 20px 0;
+        }
+        .banner {
+            background-color: #ff9aa2;
+            color: #fff;
+            padding: 10px 20px;
+            border-radius: 20px;
+            margin: 0 10px;
+            font-size: 1rem;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .photos {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+            margin: 30px 10px;
+            padding: 0 20px;
+        }
+        .photos img {
+            width: 100%;
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        .message {
+            margin: 30px auto;
+            padding: 20px;
+            max-width: 600px;
+            background-color: #fff;
+            border: 2px solid #ffd1dc;
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .message p {
+            font-size: 1.2rem;
+            line-height: 1.6;
+            color: #555;
+        }
+        footer {
+            background-color: #ffe5d1;
+            padding: 20px;
+            margin-top: 30px;
+            border-top: 2px solid #ffb6c1;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Happy Birthday, Mandu! 🎉</h1>
+        <h2>No more Pedo! you are 22 years old (that's 8,030 days!)</h2>
+    </header>
+
+    <div class="banners">
+        <div class="banner">🎈 I Miss You So Much 🎈</div>
+        <div class="banner">❤️ And I Love You So Much ❤️</div>
+    </div>
+
+    <section class="photos">
+        <img src="https://i.pinimg.com/736x/c1/6b/82/c16b828dfe97eb2fbb9c7d79c13fe8b9.jpg" alt="Playful Raccoon and Ginger Cat">
+        <img src="https://i.pinimg.com/736x/ae/10/7e/ae107e57fb5918672306f37684657cb7.jpg" alt="Raccoon with Flower and Ginger Cat">
+        <img src="https://i.pinimg.com/736x/5c/3b/c0/5c3bc0faa5c18c76964046301e263f0f.jpg" alt="Raccoon and Ginger Cat on a Grassy Hill">
+    </section>
+
+    <div class="message">
+        <p>Dear Mandu,</p>
+        <p>Happy 22nd Birthday my lil bebe! My math is shit 'cause I don't know how it's your 3rd birthday I am spending with you while we haven't had our 3rd anniversary yet, but yesh every year, I feel luckier to have you by my side (Not right now, but in spirit). You mean the world to me, and I can’t even begin to describe how much I miss you when we’re apart. I am happy seeing you focus on your career so well, but know that you can depend on me a little whenever you need me.</p>
+        <p>I am already starting to think about your next birthday, maybe I will come and visit you in Noida or Pune. Also, next time no more fuckin littlebox or newme dress, I have to figure out something else but I do hope you like your anklets. Hope you keep me in your mind through your birthday.. I'm blabbing because coding is difficult but hope this isn't too cringe ❤️</p>
+        <p>With all my love,<br>Your chubby ginger cat ❤️</p>
+    </div>
+
+    <footer>
+        <p>🎂 Happy 22nd, Nikteshwar! 🎂</p>
+    </footer>
+</body>
+</html>
+
